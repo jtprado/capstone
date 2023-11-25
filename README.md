@@ -1,2 +1,2 @@
 # capstone
-capstome rome business school
+capstone rome business school
